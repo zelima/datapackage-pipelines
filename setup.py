@@ -38,7 +38,7 @@ INSTALL_REQUIRES = [
     'flask-jsonpify',
     'flask-basicauth',
     'cachetools',
-    'tabulator>=1.54.0',
+    'tabulator>=1.50.0',
     'globster>=0.1.0',
     'dataflows>=0.2.11',
     'python-dateutil<2.8.1',
